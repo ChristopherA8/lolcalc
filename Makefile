@@ -1,0 +1,2 @@
+all:
+	lci calculator.lol
